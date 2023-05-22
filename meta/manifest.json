@@ -2,7 +2,7 @@
     "name": "HideHelmet",
     "author": "Faeryn",
     "version_number": "0.1.0",
-    "website_url": "",
+    "website_url": "https://github.com/Faeryn/Outward_HideHelmet",
     "description": "Adds a potion that permanently makes you able to show or hide your helmet. This effect can be triggered by either using the skill, or by pressing the customizable key. The potion and recipe has a chance to appear at the Soroborean Caravanner.",
     "dependencies": [
         "BepInEx-BepInExPack_Outward-5.4.18",
